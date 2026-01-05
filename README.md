@@ -99,7 +99,8 @@ Note: No biometric system is perfect. This project demonstrates a **multi-signal
 📂 Project Structure
 --------------------
 
-`   .  ├── realtime_rppg_multi_roi.py   # Main real-time liveness detection script  ├── README.md                    # Project documentation  └── demo/                        # Demo video or screenshots (optional)   `
+` ├── realtime_rppg_multi_roi.py # Main real-time liveness detection script `<br>`
+├── README.md # Project documentation  `
 
 🚀 Getting Started
 ------------------
